@@ -8,4 +8,4 @@
   
 Example: "Webhook" is an input data i assinged on zapier, its value is the Webhook URL. </p>
 <h3>What is a Webhook in Zapier?</h3>
-<p>First note that in order to send a webhook to zaiper, you must manually open the webhook URL for Zapier to revice its contents. <b> What is a webhook? : </b> Webhooks are automated messages sent from apps when something happens. They have a message—or payload—and are sent to a unique URL—essentially the app's phone number or address. Webhooks are usually used to connect apps and systems, allowing them to share real-time data.</p>
+<p>First note that in order to send a webhook to zaiper, you must manually open the webhook URL for Zapier to revice its contents. <b><i> What is a webhook? : </i></b> Webhooks are automated messages sent from apps when something happens. They have a message—or payload—and are sent to a unique URL—essentially the app's phone number or address. Webhooks are usually used to connect apps and systems, allowing them to share real-time data.</p>
