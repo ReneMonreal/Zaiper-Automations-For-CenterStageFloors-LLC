@@ -1,3 +1,5 @@
+// NOTE ***** airtable_rec_id variable is equal to the airtable Record ID, 
+
 // Base & Field info
 let table0 = base.getTable("Sales");
 let query = await table0.selectRecordsAsync(
