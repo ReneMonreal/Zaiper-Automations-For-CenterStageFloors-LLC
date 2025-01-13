@@ -2,6 +2,8 @@
 <p>This python script was created for my Zaiper Automation Work Flows (Zap)</p>
 <p>Built for Center Stage Floors, LLC by Rene Monreal and currently in use by the company </p>
 <br>
+<h2>How it works = Leadstage_FollowupDate</h2>
+<p>After following up with clients Center Stage Floors's sale team updates each "Opportunity"/"potential Project" (each has its own Record ID) on airtable. Under the followup stage column under each record, it is a salesperson to update the CRM to notify other sales people they followed up and when. Increasing each stage to the next based on the previous followup stage, adding any addtional project notes recived from the client into a notes section, and lastly typing the date they followed up. To stream line this task, i implemented a script that allows a salesperson to update only the follwoup stage and the rest (date followed up, followup notes) will update on its own.</p>
 <h2>How it works = Automation Time stamp</h2>
 <p> Center Stage Floors, LLC used Quickbooks as a merchant account, being limited to what data they can see. I (Rene Monreal) created a Zaiper Automation workflow to dected when an invoice or esitmate is created and or updated. Following the detection the automation will capture all of the that particular job's data from their CRM (airtable) and paste the both quickbooks and airtable infromation onto a google spread sheet. Before pasting the information to its according column, this python script runs to capture the data of the automation (Time can also be included by adjusting the time format but i decided on just the date). </p>
 <br>
@@ -12,4 +14,4 @@
 <h4>What is a Webhook in Zapier?</h4>
 <p>First note that in order to send a webhook to zaiper, you must manually open the webhook URL for Zapier to revice its contents. <b><i> What is a webhook? : </i></b> Webhooks are automated messages sent from apps when something happens. They have a message—or payload—and are sent to a unique URL—essentially the app's phone number or address. Webhooks are usually used to connect apps and systems, allowing them to share real-time data.</p>
 
-<p>Regarding any questions or intrests, feel Free to contact me about this and or other projects: www.linkedin.com/in/renemonreal </p>
+<p>Regarding any questions or intrests, feel Free to contact me about this and or other projects: renemonreal24@gmail.com   ---   www.linkedin.com/in/renemonreal </p>
